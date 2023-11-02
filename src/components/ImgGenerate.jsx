@@ -14,7 +14,7 @@ function ImgGenerate() {
             headers:{
                 "Content-Type": "application/json",
                 Authorization:
-                "Bearer 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",
+                "Bearer ENTER-API-KEY-HERE",
                 "User-Agent": "Chrome",
             },
             body: JSON.stringify({
